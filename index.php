@@ -11,10 +11,5 @@
         hellow world
     </p>
 
-    <p>hellow philippines</p>
-
-    <p>last edit</p>
-
-    emerging
 </body>
 </html>
